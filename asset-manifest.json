@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.340fc15a.chunk.css",
-    "main.js": "/static/js/main.d359972d.chunk.js",
-    "main.js.map": "/static/js/main.d359972d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9a0e6d6b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9a0e6d6b.js.map",
-    "static/css/2.209c414f.chunk.css": "/static/css/2.209c414f.chunk.css",
-    "static/js/2.a42a8e5c.chunk.js": "/static/js/2.a42a8e5c.chunk.js",
-    "static/js/2.a42a8e5c.chunk.js.map": "/static/js/2.a42a8e5c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fe936d04a075f9106888fca4899c20fb.js": "/precache-manifest.fe936d04a075f9106888fca4899c20fb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.209c414f.chunk.css.map": "/static/css/2.209c414f.chunk.css.map",
-    "static/css/main.340fc15a.chunk.css.map": "/static/css/main.340fc15a.chunk.css.map",
-    "static/js/2.a42a8e5c.chunk.js.LICENSE.txt": "/static/js/2.a42a8e5c.chunk.js.LICENSE.txt"
+    "main.css": "/Shopping-list-with-React/static/css/main.340fc15a.chunk.css",
+    "main.js": "/Shopping-list-with-React/static/js/main.3da84e0b.chunk.js",
+    "main.js.map": "/Shopping-list-with-React/static/js/main.3da84e0b.chunk.js.map",
+    "runtime-main.js": "/Shopping-list-with-React/static/js/runtime-main.7909b8d1.js",
+    "runtime-main.js.map": "/Shopping-list-with-React/static/js/runtime-main.7909b8d1.js.map",
+    "static/css/2.209c414f.chunk.css": "/Shopping-list-with-React/static/css/2.209c414f.chunk.css",
+    "static/js/2.a42a8e5c.chunk.js": "/Shopping-list-with-React/static/js/2.a42a8e5c.chunk.js",
+    "static/js/2.a42a8e5c.chunk.js.map": "/Shopping-list-with-React/static/js/2.a42a8e5c.chunk.js.map",
+    "index.html": "/Shopping-list-with-React/index.html",
+    "precache-manifest.cb556a6b76f40ce432c7af8beaa1d959.js": "/Shopping-list-with-React/precache-manifest.cb556a6b76f40ce432c7af8beaa1d959.js",
+    "service-worker.js": "/Shopping-list-with-React/service-worker.js",
+    "static/css/2.209c414f.chunk.css.map": "/Shopping-list-with-React/static/css/2.209c414f.chunk.css.map",
+    "static/css/main.340fc15a.chunk.css.map": "/Shopping-list-with-React/static/css/main.340fc15a.chunk.css.map",
+    "static/js/2.a42a8e5c.chunk.js.LICENSE.txt": "/Shopping-list-with-React/static/js/2.a42a8e5c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a0e6d6b.js",
+    "static/js/runtime-main.7909b8d1.js",
     "static/css/2.209c414f.chunk.css",
     "static/js/2.a42a8e5c.chunk.js",
     "static/css/main.340fc15a.chunk.css",
-    "static/js/main.d359972d.chunk.js"
+    "static/js/main.3da84e0b.chunk.js"
   ]
 }
